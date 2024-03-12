@@ -2,7 +2,7 @@
 //  MessageCell.swift
 //  bookswap2
 //
-//  Created by Larry Hung on 3/12/24.
+//  Created by Chloe Hung on 3/12/24.
 //
 
 import UIKit
